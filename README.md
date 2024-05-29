@@ -1,3 +1,3 @@
 # hangman_web
 
-test4
+test
